@@ -30,7 +30,7 @@ Processing tasks:
 
 *Note: please submit the processed dataset too.*
 
-## Section 2 Databases:
+## Section 2: Databases
 You are appointed by a car dealership to create their database infrastructure. There is only one store. In each business day, cars are being sold by a team of salespersons. Each transaction would contain information on the date and time of transaction, customer transacted with, and the car that was sold. 
 
 The following are known:
