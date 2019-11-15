@@ -18,7 +18,7 @@ Donts:
 - Code which is hard to read
 
 ## Section 1: Data Pipelines
-The objective of this section is to design and implement a solution to process a data file on a regular interval (e.g. daily). Given the test data file `dataset.csv`, design a solution to process the file, along with the scheduling component. The expected output of the processing task is a CSV file with a header containing the field names.
+The objective of this section is to design and implement a solution to process a data file on a regular interval (e.g. daily). Given the test data file `dataset.csv`, design a solution to process the file, along with the scheduling component. The expected output of the processing task is a CSV file including a header containing the field names.
 
 You can use common scheduling solutions such as `cron` or `airflow` to implement the latter. You may assume that the data file will be available at 1am everyday. Please provide documentation (a markdown file will help) to explain your solution.
 
