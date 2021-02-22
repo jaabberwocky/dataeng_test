@@ -57,8 +57,6 @@ Your team also needs you to query some information from the database that you ha
 
 2) I want to find out the top 3 car manufacturers that customers bought by sales (quantity) and the sales number for it in the current month.
 
-*Note: please submit screenshots of the sql query results.*
-
 ## Section 3: System Design
 You are designing data infrastructure on the cloud for a company whose main business is in processing images. 
 
@@ -73,7 +71,7 @@ Your team decided to use the public data from https://documenter.getpostman.com/
 
 Display a graph to show the number cases in Singapore over time using the APIs from https://covid19api.com/.
 
-*Note: please submit screenshots of the dashboard and also export your notebook as html (if you are using python).*
+*Note: please submit screenshots of the dashboard and also export your notebook as pdf (if you are using python).*
 
 ## Section 5: Machine Learning
 Using the dataset from https://archive.ics.uci.edu/ml/datasets/Car+Evaluation, create a machine learning model to predict the buying price given the following parameters:
@@ -84,4 +82,4 @@ Using the dataset from https://archive.ics.uci.edu/ml/datasets/Car+Evaluation, c
 - Safety = High
 - Class Value = Good
 
-*Note: please also export and submit your notebook as html.*
+*Note: please also export and submit your notebook as pdf.*
