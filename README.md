@@ -71,11 +71,15 @@ Your team decided to use the public data from https://documenter.getpostman.com/
 
 Display a graph to show the number cases in Singapore over time using the APIs from https://covid19api.com/.
 
+*Note: please submit screenshots of the dashboard and also export your notebook as pdf (if you are using python).*
+
 ## Section 5: Machine Learning
 Using the dataset from https://archive.ics.uci.edu/ml/datasets/Car+Evaluation, create a machine learning model to predict the buying price given the following parameters:
 
-Maintenance = High
-Number of doors = 4
-Lug Boot Size = Big
-Safety = High
-Class Value = Good
+- Maintenance = High
+- Number of doors = 4
+- Lug Boot Size = Big
+- Safety = High
+- Class Value = Good
+
+*Note: please also export and submit your notebook as pdf.*
